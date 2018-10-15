@@ -2,7 +2,7 @@
 
 In this project, we try to work on [Black Friday](https://datahack.analyticsvidhya.com/contest/black-friday/) practice problem hosted by analytics vidhaya. This project was also used to explore the bokeh plotting library extensively. Scatter plots, histograms and count plots were all generated in this project using bokeh library. 
 
-The Jupyter Notebook file is [here](https://github.com/abishekarun/Black-Friday-Problem/blob/master/black_friday.ipynb) for this project.
+The Jupyter Notebook file is [here](https://nbviewer.jupyter.org/github/abishekarun/Black-Friday-Problem/blob/master/black_friday.ipynb) for this project.
 
 The resources that helped me are:
 
